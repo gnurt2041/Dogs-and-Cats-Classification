@@ -11,6 +11,23 @@ The training archive contains 25,000 images of dogs and cats. Train your algorit
 
 **Environment:** Google Colab
 
+**The directory structure:**
+
+dogs and cats/
+	├── train/
+        ├── train/
+        │   ├── cats/
+        │   ├── dogs/
+        │       ├── dog.0.jpg
+        │       ├── dog.1.txt
+        │       ├── dog.5.txt
+        │       ├── :
+        │       ├── dog.12499.jpg
+        └── test/
+    └── test1/
+practice/
+	└── main.py
+
 # Libraries
 
 <li>pandas
