@@ -7,6 +7,9 @@ The training archive contains 25,000 images of dogs and cats. Train your algorit
 
 (1 = dog, 0 = cat)
 
+![alt text](https://github.com/ttrung14/Dogs-and-Cats-Classification/blob/92a8c0de95b45b25c3705c86e4dd83def9bf12d7/image/536aa78069bedddb13c60c3a.webp?raw=true)
+
+
 **Dataset link:** https://www.kaggle.com/competitions/dogs-vs-cats/data
 
 **Environment:** Google Colab
@@ -41,5 +44,7 @@ practice/
 # Neural Network
 
 <li>CNN Network
+
+![alt text](https://github.com/ttrung14/Dogs-and-Cats-Classification/blob/92a8c0de95b45b25c3705c86e4dd83def9bf12d7/image/316611236_668344351335441_8492339308702307296_n.png?raw=true)
   
 **Accuracy:** 86.16%
