@@ -3,7 +3,7 @@ This is my first project to practice CNN. A image classification with the datase
 
 # Dataset Information
 
-The training archive contains 25,000 images of dogs and cats. Train your algorithm on these files and predict the labels (1 = dog, 0 = cat)
+The training archive contains 25,000 images of dogs and cats. Train the algorithm on these files and predict the labels (1 = dog, 0 = cat)
 
 ![alt text](https://github.com/ttrung14/Dogs-and-Cats-Classification/blob/92a8c0de95b45b25c3705c86e4dd83def9bf12d7/image/536aa78069bedddb13c60c3a.webp?raw=true)
 
