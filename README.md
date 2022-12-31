@@ -20,9 +20,8 @@ dogs and cats/
         │   ├── cats/
         │   ├── dogs/
         │       ├── dog.0.jpg
-        │       ├── dog.1.txt
-        │       ├── dog.5.txt
-        │       ├── :
+        │       ├── dog.1.jpg
+	│       ├── :
         │       ├── dog.12499.jpg
         └── test/
     └── test1/
