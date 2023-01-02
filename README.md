@@ -40,7 +40,7 @@ practice/
 
 # Neural Network
 
-<li>CNN Network
+<li>CNN Architecture
 
 ![alt text](https://github.com/ttrung14/Dogs-and-Cats-Classification/blob/92a8c0de95b45b25c3705c86e4dd83def9bf12d7/image/316611236_668344351335441_8492339308702307296_n.png?raw=true)
   
